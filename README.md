@@ -1,9 +1,11 @@
-Information Systems grad student from Finland. Once, I was an engineer and it might have permanently affected my brain.
+Information Systems grad student from Finland. Once, I was an engineer and they say it might have permanently affected my brain.
 I enjoy web, graphic and game design, maker subculture and open source technologies, both software and hardware. And the 80s, despite not having been born then.
 
 Techs & skills:
 
 -HTML5+CSS+JS
+
+-React.js
 
 -Object Oriented Programming with Java, .NET and Smalltalk
 
@@ -13,4 +15,8 @@ Techs & skills:
 
 -Illustration and other graphic work with Adobe tools, Krita, GIMP and many more.
 
--Arduino with C
+-Arduino projects, including one startup
+
+-SQL and relational databases
+
+-Data analytics both with Python libraries & graphical tools
