@@ -1,5 +1,3 @@
-![Galaxy from Andromeda](https://github.com/TheLaari/Andromeda/blob/master/Andromeda/Content/galaksi.png)
-
 Information Systems grad student from Finland. Once, I was an engineer and they say it might have permanently affected my brain.
 I enjoy web, graphic and game design, maker subculture and open source technologies, both software and hardware. And the 80s, despite not having been born then.
 
