@@ -13,7 +13,7 @@ Techs & skills:
 
 -UI/UX design and wireframing
 
--Illustration, asset making,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, and other graphic work with Adobe PS, Illustrator, Krita, GIMP and many more
+-Illustration, asset making, and other graphic work with Adobe PS, Illustrator, Krita, GIMP and many more
 
 -Arduino projects, including one startup
 
