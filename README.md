@@ -9,7 +9,7 @@ Techs & skills:
 
 -OOP with Java, .NET and Smalltalk
 
--Requirements Engineering and System Design with UML
+-Requirements Engineering and System Design with UML2.5
 
 -UI/UX research, design and wireframing
 
