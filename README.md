@@ -1,5 +1,5 @@
 Information Systems student from Finland. Once, I was an engineer and they say it might have permanently affected my brain.
-I enjoy web, graphic and game design, maker subculture and open source technologies. And the 1980s, likely because I wasn't born then.
+I enjoy web, graphic and game design, maker subculture and open source technologies. And the 1980s, likely because I missed them by good four years.
 
 Techs & skills:
 
