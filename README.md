@@ -20,5 +20,3 @@ Techs & skills:
 -SQL and relational databases, MySQL
 
 -Data analytics with Python libraries & GUI tools
-
--Unity
