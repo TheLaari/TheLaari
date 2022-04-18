@@ -11,11 +11,7 @@ Techs & skills:
 
 -Requirements Engineering and System Design with UML2.5
 
--UI/UX research, design and wireframing
-
 -Illustration, asset making, and other graphical work with Adobe PS, Illustrator, Krita, GIMP and many more
-
--Arduino projects, including one startup
 
 -SQL and relational databases, MySQL
 
