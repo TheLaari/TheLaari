@@ -1,5 +1,5 @@
-Information Systems grad student from Finland. Once, I was a proper engineer and it might have permanently affected my brain.
-I enjoy maker subculture, life sciences and open source technologies.
+Information Systems and Biology grad student from Finland.
+I enjoy the maker subculture, art, life sciences and open source technologies.
 
 Techs & skills:
 
